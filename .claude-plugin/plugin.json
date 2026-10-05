@@ -1,0 +1,19 @@
+{
+  "name": "lektor",
+  "displayName": "Lektor",
+  "version": "0.1.0",
+  "description": "Czyta na głos odpowiedzi Claude Code po polsku i angielsku — lokalnie, Chatterbox Multilingual (MLX) na Macu z Apple Silicon.",
+  "author": {
+    "name": "Bartłomiej Zimny"
+  },
+  "license": "MIT",
+  "keywords": [
+    "tts",
+    "voice",
+    "polish",
+    "accessibility",
+    "mlx"
+  ],
+  "homepage": "https://github.com/jash90/lektor",
+  "repository": "https://github.com/jash90/lektor"
+}

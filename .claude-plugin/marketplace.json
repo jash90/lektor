@@ -1,0 +1,15 @@
+{
+  "name": "lektor",
+  "owner": {
+    "name": "Bartłomiej Zimny"
+  },
+  "plugins": [
+    {
+      "name": "lektor",
+      "source": "./",
+      "description": "Czytanie odpowiedzi Claude Code na głos (PL/EN, lokalnie)",
+      "version": "0.1.0"
+    }
+  ],
+  "description": "Lektor — czytanie odpowiedzi Claude Code na głos (PL/EN, lokalnie na Macu)"
+}
